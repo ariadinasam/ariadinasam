@@ -1,7 +1,8 @@
 # About me
 
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=1000&color=CF31F7&width=435&lines=Ol%C3%A1!+Me+chamo+Ariadina.+" alt="Typing SVG" /></a>
+</div>
 
 
 
