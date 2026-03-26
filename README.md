@@ -4,7 +4,6 @@
 
 <h1>About me</h1>
 <p align="center"> I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases.
-
 I am always looking for something new to study; staying up-to-date is essential. I am passionate about technology. </p>
 
 <h1>Sobre mim</h1>
