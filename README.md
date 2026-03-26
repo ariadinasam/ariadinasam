@@ -3,29 +3,12 @@
 </div>
 
 <h1>About me</h1>
-<p align="center"> Hi everyone, you can call me Ari. I'm currently a Software Engineering student, I have a degree in Systems Analysis and Development, and I have an immense desire to continue learning.
-I have some courses in Graphic Design, Generative AI, Technical Support, and Cybersecurity.
-My studies are the fuel to achieve my dreams! I know that with them, I'll go far.
+<p align="center"> I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases.
 
-Currently, I'm developing my programming skills with a focus on PHP, Python, and JavaScript.
-
-I'm also learning MySQL and PostgreSQL databases.
-
-Among other things I'm studying.
-
-I'm ready to learn more and more. </p>
-
+I am always looking for something new to study; staying up-to-date is essential. I am passionate about technology. </p>
 
 <h1>Sobre mim</h1>
-<p align="center">Olá pessoas, podem me chamar de Ari. Atualmente sou estudante de Engenharia de Software, sou formada em Análise e desenvolvimento de sistemas e sigo com uma vontade imensa de continuar aprendendo.
-Tenho alguns cursos como Designer Gráfico, Ia generativa, Suporte técnico e cibersegurança.
-Meus estudos são o combustível para realizar meus sonhos! Sei que com eles, vou longe. 
-
-Atualmente estou desenvolvendo melhor a minha prática de programação com foco em PHP, Phyton, JavaScript.
-Também estou aprendendo os bancos MySql e PostgreSQL.
-Entre outras coisas que estou estudando. 
-
-Estou pronta para cada vez aprender mais. </p>
+<p align="center">Sou estudante de engenharia de software e formada em análise e desenvolvimento de sistemas. Atualmente sigo estudando e praticando as linguagens PHP, Phyton, Javascript e os bancos Mysql, PostgreSQL. Estou sempre indo atrás de algo novo para estudar, me manter atualizada é fundamental. Sou apaixonada por tecnologia. </p>
 
 
 
