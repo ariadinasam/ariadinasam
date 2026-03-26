@@ -4,8 +4,9 @@
 
 
 
-#About me 
-Hi everyone, you can call me Ari. I'm currently a Software Engineering student, I have a degree in Systems Analysis and Development, and I have an immense desire to continue learning.
+#
+<h1>About me</h1>
+<p align="center"> Hi everyone, you can call me Ari. I'm currently a Software Engineering student, I have a degree in Systems Analysis and Development, and I have an immense desire to continue learning.
 I have some courses in Graphic Design, Generative AI, Technical Support, and Cybersecurity.
 My studies are the fuel to achieve my dreams! I know that with them, I'll go far.
 
@@ -15,18 +16,19 @@ I'm also learning MySQL and PostgreSQL databases.
 
 Among other things I'm studying.
 
-I'm ready to learn more and more.
+I'm ready to learn more and more. </p>
 
-#Sobre mim
-Olá pessoas, podem me chamar de Ari. Atualmente sou estudante de Engenharia de Software, sou formada em Análise e desenvolvimento de sistemas e sigo com uma vontade imensa de continuar aprendendo.
+#
+<h1>Sobre mim</h1>
+<p align="center">Olá pessoas, podem me chamar de Ari. Atualmente sou estudante de Engenharia de Software, sou formada em Análise e desenvolvimento de sistemas e sigo com uma vontade imensa de continuar aprendendo.
 Tenho alguns cursos como Designer Gráfico, Ia generativa, Suporte técnico e cibersegurança.
-Meus estudos são o combustível para realizar meus sonhos! Sei que com eles, vou longe.
+Meus estudos são o combustível para realizar meus sonhos! Sei que com eles, vou longe. 
 
 Atualmente estou desenvolvendo melhor a minha prática de programação com foco em PHP, Phyton, JavaScript.
 Também estou aprendendo os bancos MySql e PostgreSQL.
 Entre outras coisas que estou estudando. 
 
-Estou pronta para cada vez aprender mais. 
+Estou pronta para cada vez aprender mais. </p>
 
 
 
