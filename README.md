@@ -7,6 +7,15 @@
 </div>
 
 
+<div>
+  <h3>Focusing on</h3>
+  <div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />&nbsp;&nbsp;
+</div> 
+</div>
+
 <h1>About me</h1>
 <p align="center"> I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases.
 I am always looking for something new to study; staying up-to-date is essential. I am passionate about technology. </p>
