@@ -15,7 +15,7 @@ I am always looking for something new to study; staying up-to-date is essential.
 
 
 <div align="center">
-  <h3>Studying</h3>
+  <h3>What am I studying right now.</h3>
   <div style="display: inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"height="40" alt="phyton logo"/>
   <img width="10" />
