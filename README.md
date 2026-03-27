@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=1000&color=CF31F7&width=435&lines=Hello+World!+My+name+is+Ariadina." alt="Typing SVG" /></a>
 </div>
 
-<img align="center" alt="50%" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif">
+<img align="center" alt="" widht="50" hight="50" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif">
 
 <h1>About me</h1>
 <p align="center"> I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases.
