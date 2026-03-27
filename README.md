@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img  alt="" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif" width="400" hight="500" >
+  <img  alt="" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif" width="500" hight="200" >
 </div>
 
 
