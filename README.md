@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=1000&color=CF31F7&width=435&lines=Hello+World!+My+name+is+Ariadina." alt="Typing SVG" /></a>
-  <br>
-  <img alt="" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif" width="500" hight="300" >
 </div>
 
+<div align="center">
+  <img  alt="" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif" width="500" hight="200" >
+</div>
 
 
 <h1>About me</h1>
