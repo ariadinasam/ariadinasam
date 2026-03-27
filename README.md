@@ -6,13 +6,20 @@
   <img alt="" src="https://github.com/ariadinasam/ariadinasam/blob/main/ariadina.gif" width="500" />
 </div>
 
+<div align="center">
+  <h3>Connect with me :)</h3>
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+
+</div>
+
 <h1>🇺🇸</h1>
 <p align="center"> I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases.
 I am always looking for something new to study; staying up-to-date is essential. I am passionate about technology. </p>
 
 <h1>🇧🇷</h1>
 <p align="center">Sou estudante de engenharia de software e formada em análise e desenvolvimento de sistemas. Atualmente sigo estudando e praticando as linguagens PHP, Phyton, Javascript e os bancos Mysql, PostgreSQL. Estou sempre indo atrás de algo novo para estudar, me manter atualizada é fundamental. Sou apaixonada por tecnologia. </p>
-
 
 <div align="center">
   <h3>What am I studying right now.</h3>
@@ -33,7 +40,6 @@ I am always looking for something new to study; staying up-to-date is essential.
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />
 </div> 
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake-dark.svg">
