@@ -16,11 +16,11 @@
 </div> 
 </div>
 
-<h1>About me</h1>
+<h1>🇺🇸</h1>
 <p align="center"> I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases.
 I am always looking for something new to study; staying up-to-date is essential. I am passionate about technology. </p>
 
-<h1>Sobre mim</h1>
+<h1>🇧🇷</h1>
 <p align="center">Sou estudante de engenharia de software e formada em análise e desenvolvimento de sistemas. Atualmente sigo estudando e praticando as linguagens PHP, Phyton, Javascript e os bancos Mysql, PostgreSQL. Estou sempre indo atrás de algo novo para estudar, me manter atualizada é fundamental. Sou apaixonada por tecnologia. </p>
 
 
