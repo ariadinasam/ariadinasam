@@ -14,7 +14,7 @@ I am always looking for something new to study; staying up-to-date is essential.
 <p align="center">Sou estudante de engenharia de software e formada em análise e desenvolvimento de sistemas. Atualmente sigo estudando e praticando as linguagens PHP, Phyton, Javascript e os bancos Mysql, PostgreSQL. Estou sempre indo atrás de algo novo para estudar, me manter atualizada é fundamental. Sou apaixonada por tecnologia. </p>
 
 
-<div>
+<div align="center">
   <h3>Studying</h3>
   <div style="display: inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"height="40" alt="phyton logo"/>
