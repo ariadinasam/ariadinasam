@@ -1,44 +1,32 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=1000&color=CF31F7&width=500&center=true&lines=Welcome+to+my+profile!" alt="Typing SVG" />
-  </a>
-  <br>
-  <img alt="Ariadina" src="https://github.com/ariadinasam/ariadinasam/raw/main/src/ariadina.gif" width="500" />
-</p>
-
 <h3 align="center">Connect with me!</h3>
-<p align="center">
-  <a href="mailto:arisamara@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/ariadinacarneiro/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/ariadina.dev/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="mailto:arisamara@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="E-mail"></a></td>
+    <td><a href="https://www.linkedin.com/in/ariadinacarneiro/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a></td>
+    <td><a href="https://www.instagram.com/ariadina.dev/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a></td>
+  </tr>
+</table>
 
-<h2>🇺🇸</h2>
+<h2 align="center">🇺🇸</h2>
 <p align="center">
   I am a software engineering student with a degree in systems analysis and development. Currently, I continue to study and practice the PHP, Python, and Javascript languages, as well as the MySQL and PostgreSQL databases. I am always looking for something new to study; staying up-to-date is essential. I am passionate about technology.
 </p>
 
-<h2>🇧🇷</h2>
+<h2 align="center">🇧🇷</h2>
 <p align="center">
   Sou estudante de engenharia de software e formada em análise e desenvolvimento de sistemas. Atualmente sigo estudando e praticando as linguagens PHP, Python, Javascript e os bancos MySQL, PostgreSQL. Estou sempre indo atrás de algo novo para estudar, me manter atualizada é fundamental. Sou apaixonada por tecnologia.
 </p>
 
 <h3 align="center">What am I studying right now.</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="php logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></td>
+  </tr>
+</table>
