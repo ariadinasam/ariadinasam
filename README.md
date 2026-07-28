@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Gotham&pause=1000&color=CF31F7&width=500&center=true&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+  <br>
+  <img alt="Ariadina" src="https://github.com/ariadinasam/ariadinasam/raw/main/src/ariadina.gif" width="500" />
+</p>
+
 <h3 align="center">Connect with me!</h3>
 <table align="center">
   <tr>
@@ -30,3 +38,11 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ariadinasam/ariadinasam/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
