@@ -11,7 +11,7 @@
   <tr>
     <td><a href="mailto:arisamara@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="E-mail"></a></td>
     <td><a href="https://www.linkedin.com/in/ariadinacarneiro/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a></td>
-    <td><a href="https://www.instagram.com/ariadina.dev/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a></td>
+    <td><a href="https://www.instagram.com/ariadinacarneiro/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"></a></td>
   </tr>
 </table>
 
